@@ -15,7 +15,7 @@ import pawprint from "../../../assets/images/pawprint (1).png";
 const LatestNews = () => {
   const [latest, setLetest] = useState([]);
   useEffect(() => {
-    axios("/public/latest.json").then((res) => setLetest(res.data));
+    axios("latest.json").then((res) => setLetest(res.data));
   }, []);
 
   console.log(latest);

@@ -16,7 +16,7 @@ const PetsCategory = () => {
   const [pets, setPet] = useState([]);
 
   useEffect(() => {
-    axios("/petsCategory.json").then((res) => setPet(res.data));
+    axios("petsCategory.json").then((res) => setPet(res.data));
   }, []);
   return (
     <div className="lg:mt-24 mt-10">
