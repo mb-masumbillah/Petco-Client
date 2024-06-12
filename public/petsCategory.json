@@ -1,0 +1,23 @@
+[
+    {
+      "image": "https://weblism.xyz/petenica/wp-content/uploads/2018/03/shutterstock_139677763.jpg",
+      "name": "Cats",
+      "description": "Find your purrfect companion."
+    },
+    {
+      "image": "https://www.dogstrust.org.uk/images/800x600/assets/2022-06/Landscape-goldenretrieverdog_outside_bridgend_dogstrust.jpg",
+      "name": "Dogs",
+      "description": "Adopt a loyal friend."
+    },
+    {
+      "image": "https://blog.ferplast.com/wp-content/uploads/2015/03/coniglietto_appartamento-cure-1024x682.jpg",
+      "name": "Rabbits",
+      "description": "Cute and cuddly bunnies."
+    },
+    {
+      "image": "https://image.petmd.com/files/styles/863x625/public/2022-09/koi.fish_.jpg",
+      "name": "Fish",
+      "description": "Colorful and calming pets."
+    }
+  ]
+  

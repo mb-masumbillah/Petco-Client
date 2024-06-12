@@ -1,0 +1,127 @@
+
+
+
+
+[
+    {
+        "category": "rabbit",
+        "date": "2024-04-15T00:00:00.000Z",
+        "adopted": "Not Adopted",
+        "email" : "masum@gmail.com",
+        "petImage": "https://d1hjkbq40fs2x4.cloudfront.net/2022-03-21/files/16478683480.jpg",
+        "petname": "Fluffy",
+        "location": "Philadelphia, PA",
+        "shortdescription": "A cute and fluffy rabbit.",
+        "longdescription": "Fluffy is a 1-year-old rabbit with a gentle and friendly temperament. He loves to hop around and enjoys being petted.",
+        "age": "1 year"
+    },
+    {
+        "category": "dog",
+        "date": "2024-04-20T00:00:00.000Z",
+        "adopted": "Not Adopted",
+        "email" : "masum@gmail.com",
+        "petImage": "https://iheartdogs.com/wp-content/uploads/2023/06/dog-g0f830513c_1280.jpg",
+        "petname": "Buddy",
+        "location": "New York, NY",
+        "shortdescription": "A playful puppy.",
+        "longdescription": "Buddy is a 6-month-old playful puppy who loves to play fetch and is great with kids.",
+        "age": "6 months"
+    },
+    {
+        "category": "cat",
+        "date": "2024-04-22T00:00:00.000Z",
+        "adopted": "Not Adopted",
+        "email" : "masum@gmail.com",
+        "petImage": "https://cypressviewvet.ca/wp-content/uploads/2021/04/catoutside.jpg",
+        "petname": "Whiskers",
+        "location": "Los Angeles, CA",
+        "shortdescription": "A calm and loving cat.",
+        "longdescription": "Whiskers is a 2-year-old cat who enjoys lounging around and being pampered. He is very affectionate and loves to cuddle.",
+        "age": "2 years"
+    },
+    {
+        "category": "dog",
+        "date": "2024-04-25T00:00:00.000Z",
+        "adopted": "Not Adopted",
+        "email" : "masum@gmail.com",
+        "petImage": "https://static01.nyt.com/images/2024/05/05/multimedia/05DOG-AGGRESSION-qhgl/05DOG-AGGRESSION-qhgl-mediumSquareAt3X.jpg",
+        "petname": "Polly",
+        "location": "Miami, FL",
+        "shortdescription": "A talkative dog.",
+        "longdescription": "Polly is a 3-year-old dog who loves to mimic sounds and can say a few words. She is very social and enjoys interacting with people.",
+        "age": "3 years"
+    },
+    {
+        "category": "cat",
+        "date": "2024-04-28T00:00:00.000Z",
+        "adopted": "Not Adopted",
+        "email" : "masum@gmail.com",
+        "petImage": "https://www.zooplus.co.uk/magazine/wp-content/uploads/2021/07/Outdoor-kitten-explores-the-garden-768x512.jpeg",
+        "petname": "Nibbles",
+        "location": "San Francisco, CA",
+        "shortdescription": "A small and active cat.",
+        "longdescription": "Nibbles is a 6-month-old cat who loves to run on his wheel and explore his surroundings. He is very active and curious.",
+        "age": "6 months"
+    },
+    {
+        "category": "fish",
+        "date": "2024-05-01T00:00:00.000Z",
+        "adopted": "Not Adopted",
+        "email" : "masum@gmail.com",
+        "petImage": "https://images.pexels.com/photos/128756/pexels-photo-128756.jpeg?cs=srgb&dl=pexels-pixabay-128756.jpg&fm=jpg",
+        "petname": "Goldie",
+        "location": "Seattle, WA",
+        "shortdescription": "A beautiful goldfish.",
+        "longdescription": "Goldie is a 1-year-old goldfish who loves swimming around her tank. She has vibrant colors and is very easy to care for.",
+        "age": "1 year"
+    },
+    {
+        "category": "rabbit",
+        "date": "2024-05-05T00:00:00.000Z",
+        "adopted": "Not Adopted",
+        "email" : "masum@gmail.com",
+        "petImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZk478YQb7UcYCIYsaLsQBV59aDYfC0AWMIA&s",
+        "petname": "Shelly",
+        "location": "Austin, TX",
+        "shortdescription": "A slow but steady rabbit.",
+        "longdescription": "Shelly is a 5-year-old rabbit who loves basking in the sun and swimming in her pond. She is very low-maintenance and calm.",
+        "age": "5 years"
+    },
+    {
+        "category": "rabbit",
+        "date": "2024-05-10T00:00:00.000Z",
+        "adopted": "Not Adopted",
+        "email" : "masum@gmail.com",
+        "petImage": "https://images.pexels.com/photos/3828097/pexels-photo-3828097.jpeg?cs=srgb&dl=pexels-smoothclick0z1-3828097.jpg&fm=jpg",
+        "petname": "Thumper",
+        "location": "Denver, CO",
+        "shortdescription": "A friendly rabbit.",
+        "longdescription": "Thumper is a 1.5-year-old rabbit who loves to hop around and explore. He is very friendly and enjoys being held.",
+        "age": "1.5 years"
+    },
+    {
+        "category": "dog",
+        "date": "2024-05-12T00:00:00.000Z",
+        "adopted": "Not Adopted",
+        "email" : "masum@gmail.com",
+        "petImage": "https://www.akc.org/wp-content/uploads/2017/11/Cavalier-King-Charles-Spaniel-standing-in-the-grass.jpg",
+        "petname": "Rex",
+        "location": "Chicago, IL",
+        "shortdescription": "A loyal dog.",
+        "longdescription": "Rex is a 3-year-old dog who is very loyal and protective. He loves going on walks and is very well-trained.",
+        "age": "3 years"
+    },
+    {
+        "category": "cat",
+        "date": "2024-05-15T00:00:00.000Z",
+        "adopted": "Not Adopted",
+        "email" : "masum@gmail.com",
+        "petImage": "https://cdn.pixabay.com/photo/2024/02/28/07/42/european-shorthair-8601492_640.jpg",
+        "petname": "Mittens",
+        "location": "Boston, MA",
+        "shortdescription": "A playful kitten.",
+        "longdescription": "Mittens is a 4-month-old kitten who loves to play with toys and climb. She is very energetic and curious.",
+        "age": "4 months"
+    }
+]
+
