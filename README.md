@@ -1,6 +1,8 @@
 ## Overview
  website name is Petco
 
+ Petco is if someone wants to adopt a pet, they can adopt by giving some information about the pet farm owner. If someone has a pet farm then he can post to get donations for his pet.
+
 ## Features and Characteristics
 
 - **Admin & User:** Admin section is hidden. If someone is logged in then if he is admin then clicking on dashboard will take him to admin section if not he will take him to user section
