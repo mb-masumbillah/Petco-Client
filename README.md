@@ -17,6 +17,7 @@
   - **Node JS**
   - **Express JS**
   - **MongoDB**
+  - **JWT**
   - **Stripe**
 
 
