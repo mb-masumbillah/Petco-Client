@@ -21,8 +21,8 @@
 
 
   ## Project Clone 
-  - **Clone the repository:** git clone [repository URL]
-  - **Navigate to the project directory:** cd [project directory]
-  - **Install dependencies:** npm install
-  - **Firebase key:** Firebase key added .env file
-  - **Run the project locally:** npm run dev
+  - **git clone [repository URL]** 
+  - **cd [project directory]** 
+  - **npm install** 
+  - **Firebase key added .env file** 
+  - **npm run dev** 
