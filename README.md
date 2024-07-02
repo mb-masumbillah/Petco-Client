@@ -11,13 +11,13 @@
 
 ## Use Technologes 
 
-  1 React JS
-  2.Tailwind CSS
-  3. Firebase
-  4.Node JS
-  5.Express JS
-  6.MongoDB
-  7.Stripe
+  - **React JS**
+  - **Tailwind CSS** 
+  - **Firebase**
+  - **Node JS**
+  - **Express JS**
+  - **MongoDB**
+  - **Stripe**
 
 
   ## Project Clone 
