@@ -59,17 +59,7 @@ const StickyNavbar = () => {
         Donation Campaigns
       </NavLink>
       <NavLink
-        to="/secret"
-        className={({ isActive }) =>
-          isActive
-            ? "text-[#F04335] lg:border-b-2 underline-offset-2 border-[#F04335] text-xl font-extrabold"
-            : "font-extrabold text-xl text-white lg:text-[#0A303A]"
-        }
-      >
-        About Us
-      </NavLink>
-      <NavLink
-        to="/secret"
+        to="/contact"
         className={({ isActive }) =>
           isActive
             ? "text-[#F04335] lg:border-b-2 underline-offset-2 border-[#F04335] text-xl font-extrabold"

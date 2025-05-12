@@ -23,27 +23,28 @@ const Signup = () => {
   const onSubmit = (data) => {
     createUser(data.email, data.password)
       .then(() => {
-        updateUserProfile(data.name, data.photoURL).then(() => {
-          const userInfo = {
-            name: data.name,
-            email: data.email,
-            image: data.photoURL
-          };
+        updateUserProfile(data.name, data.photoURL)
+          .then(() => {
+            const userInfo = {
+              name: data.name,
+              email: data.email,
+              image: data.photoURL
+            };
 
-          axiosPublic.post("/users", userInfo).then((res) => {
-            if (res.data.insertedId) {
-              reset();
-              Swal.fire({
-                position: "top-end",
-                icon: "success",
-                title: "Your register has been Successfull",
-                showConfirmButton: false,
-                timer: 1500,
-              });
-              navigate("/");
-            }
+            axiosPublic.post("/users", userInfo).then((res) => {
+              if (res.data.insertedId) {
+                reset();
+                Swal.fire({
+                  position: "top-end",
+                  icon: "success",
+                  title: "Your register has been Successfull",
+                  showConfirmButton: false,
+                  timer: 1500,
+                });
+                navigate("/");
+              }
+            });
           });
-        });
       })
       .catch((error) => {
         if (error) {

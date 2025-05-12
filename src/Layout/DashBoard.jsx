@@ -16,9 +16,9 @@ const DashBoard = () => {
   }
 
   return (
-    <div className="flex pb-5">
-      <div className="w-64 min-h-screen">
-        <ul className="py-4 pr-4 w-64 fixed hover:text-[#F04335] text-[#0A303A] font-extrabold text-lg  flex flex-col gap-2">
+    <div className="flex pb-5 ">
+      <div className="w-64">
+        <ul className="py-4 pr-4 bg-blue-gray-300 min-h-screen w-64 fixed hover:text-[#F04335] text-[#0A303A] font-extrabold text-lg  flex flex-col gap-2">
           {isAdmin ? (
             <>
               <>
@@ -225,7 +225,7 @@ const DashBoard = () => {
           </>
         </ul>
       </div>
-      <div className="flex-1 bg-blue-gray-50  px-4">
+      <div className="flex-1 bg-blue-gray-50 min-h-screen px-4">
         <Outlet></Outlet>
       </div>
     </div>

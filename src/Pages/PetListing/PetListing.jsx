@@ -33,6 +33,8 @@ const PetListing = () => {
     delay: 100,
   });
 
+
+
   const { data: petList = [], isLoading } = useQuery({
     queryKey: ["petListing"],
     queryFn: async () => {

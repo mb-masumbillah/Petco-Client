@@ -21,6 +21,7 @@ import AdoptionRequest from "../Pages/UserDashboard/AdoptionRequest";
 import AllPets from "../Pages/AdminDashboard/AllPets";
 import AllDonation from "../Pages/AdminDashboard/AllDonation";
 import AdminRoute from "./AdminRoute";
+import ContactUs from "../Pages/ContactUs/ContactUs";
 
 export const router = createBrowserRouter([
   {
@@ -62,6 +63,10 @@ export const router = createBrowserRouter([
       {
         path: "signup",
         element: <Signup></Signup>,
+      },
+      {
+        path: "contact",
+        element: <ContactUs></ContactUs>,
       },
     ],
   },
