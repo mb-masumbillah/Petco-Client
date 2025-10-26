@@ -27,7 +27,8 @@ const Login = () => {
   } = useForm();
 
   const onSubmit = (data) => {
-    signIn(data.email, data.password).then((result) => {
+    signIn(data.email, data.password)
+    .then((result) => {
       const userdata = result.user;
       console.log(userdata);
 
@@ -102,8 +103,8 @@ const Login = () => {
                   <div className="mt-3">
                     <label className="">
                       <span className="">Password</span>
-                    </label>
-                    <Input
+                    </label> 
+                    <Input 
                       size="lg"
                       label="Password"
                       type="password"
